@@ -1,0 +1,9 @@
+---
+title: "Aloe aloe aloe"
+date: "2024-05-07"
+image: plants.jpg
+---
+
+Aloe friends! I'm a gal in my mid-twenties looking to change career and document the process to hold myself accountable. Wish me luck!
+
+![](plants.jpg){fig-align="center" width="504"}
